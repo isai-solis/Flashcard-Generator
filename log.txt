@@ -1,0 +1,1 @@
+{"front":"What is the main color of UT longhorns apparel? ","back":"Burnt Orange","type":"basic"};{"text":"The main color of UT longhorns apparel is burnt orange.","cloze":"burnt orange","partial":"The main color of UT longhorns apparel is _____.","type":"cloze"};{"front":"Who is the instructor of this course?","back":"Eric Scott","type":"basic"};
